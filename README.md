@@ -1,4 +1,4 @@
-### Hi!
+# Hi!
 
 Hello World! I am a High School Student in New Zealand who uses Archlinux. I write mostly in C/C++ and Haxe. I enjoy hacking and Game Dev. My preferred Editor is Emacs.
 
