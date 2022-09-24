@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+Hello World! I am a High School Student in New Zealand who uses Archlinux. I write mostly in C/C++ and Haxe. I enjoy hacking and Game Dev.
 
 <!--
 **drflamemontgomery/drflamemontgomery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
