@@ -1,7 +1,8 @@
 # Hello World!
 
-I am a High School Student in New Zealand who uses Archlinux. I write mostly in C/C++ and Haxe. I enjoy hacking and Game Dev. My preferred Editor is Emacs.
+I am a High School Student in New Zealand who uses Archlinux. I write mostly in C/C++ and Haxe. I enjoy hacking and Game Dev. My preferred Editor is Vim.
 
+I'm currently learning functional programming via Haskell and Lisp
 <!--
 **drflamemontgomery/drflamemontgomery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
